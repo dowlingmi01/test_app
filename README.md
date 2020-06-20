@@ -5,7 +5,7 @@ application up and running.
 
 Things you may want to cover:
 
-* Made a change
+* Made a change - made another change
 
 * Ruby version
 
